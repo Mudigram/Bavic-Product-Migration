@@ -1,4 +1,4 @@
-# Bavic-ProductMigration
+# Bavic-Product-Migration
 Python scripts for cleaning, refining, and migrating 800+ products to a new eCommerce store on WordPress
 
 # 🧵 Product Migration with Python
@@ -29,4 +29,4 @@ pip install -r requirements.txt
 python scripts/extract_youtube_links.py
 python scripts/refine_descriptions.py
 
-You’ll need an OpenAI API key to run the GPT-powered script.
+# You’ll need an OpenAI API key to run the GPT-powered script.
